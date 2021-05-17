@@ -1,6 +1,6 @@
 module.exports = {
   root: true,
-  parseOptions: {
+  parserOptions: {
     parser: 'babel-eslint',
     sourceType: 'module'
   },
@@ -18,7 +18,7 @@ module.exports = {
     'no-unused-vars': 0,
     'vue/no-reserved-keys': 0,
     'require-atomic-updates': 0,
-    'semi': 0,
-    'quotes': [2, 'single']
+    // 'semi': 0,
+    // 'quotes': [2, 'single']
   }
 }

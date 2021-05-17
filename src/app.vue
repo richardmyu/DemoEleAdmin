@@ -1,16 +1,11 @@
 <template>
   <div id="app">
-    <route-view />
+    <router-view />
   </div>
 </template>
 
 <script>
 export default {
-  name:'APP',
-  data(){
-    return {}
-  }
+  name: 'App'
 }
 </script>
-
-<style scoped lang=''></style>
