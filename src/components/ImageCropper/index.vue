@@ -1282,7 +1282,7 @@ export default {
   margin: 0 auto;
   width: 180px;
   height: 8px;
-  vertical-align: top;
+  // vertical-align: top;
   background: transparent;
   -webkit-appearance: none;
   -moz-appearance: none;
@@ -1699,7 +1699,7 @@ export default {
   height: 24px;
   color: #d10;
   text-align: center;
-  vertical-align: top;
+  // vertical-align: top;
 }
 .vue-image-crop-upload .vicp-wrap .vicp-success {
   color: #4a7;

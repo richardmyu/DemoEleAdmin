@@ -7,74 +7,79 @@
 
 ```js
 |
-|-- build 构建相关
+|-- dist
 |
-|-- config 配置相关
+|-- mock
 |
-|-- src 源码
+|-- plop-templates
+|
+|-- public
+|
+|-- src
 |    |
 |    |-- api
 |    |
-|    |-- assets 静态资源
+|    |-- assets
 |    |
-|    |-- components 全局公共组件
+|    |-- components
 |    |
-|    |-- directive 全局指令
+|    |-- directive
 |    |
-|    |-- filters 全局 filter
+|    |-- filters
 |    |
-|    |-- icons svg
+|    |-- icons
 |    |
-|    |-- lang 国际化
+|    |-- layout
 |    |
-|    |-- mock 数据
+|    |-- router
 |    |
-|    |-- router 路由
+|    |-- store
 |    |
-|    |-- styles 全局样式
+|    |-- styles
 |    |
-|    |-- utils 公共方法
+|    |-- utils
 |    |
-|    |-- vendor 公用 vendor
+|    |-- vendor
 |    |
-|    |-- view
+|    |-- views
 |    |
-|    |-- app.vue 入口页面
+|    |-- App.vue
 |    |
-|    |-- main.js 入口
+|    |-- main.js
 |    |
-|    |-- permission.js 权限管理
+|    |-- permission.js
 |    |
-|
-|-- static 第三方不打包资源
-|    |
-|    |-- Tinymce 富文本
+|    |-- settings.js
 |    |
 |
-|-- .babelrc
+|-- tests
+|
+|-- .editorconfig
+|
+|-- .env.development
+|
+|-- .env.production
+|
+|-- .env.staging
+|
+|-- .eslintignore
 |
 |-- .eslintrc.js
 |
 |-- .gitignore
 |
-|-- favicon.ico
+|-- .travis.yml
 |
-|-- index.html html 模板
+|-- babel.config.js
 |
-|-- package.json
+|-- jest.config.js
 |
+|-- jeconfig.json
 |
+|-- plopfile.js
 |
+|-- postcss.config.js
 |
+|-- vue.config.js
 |
-|
-|
-|
-|
-|
-|
-|
-|
-|
-
 ```
