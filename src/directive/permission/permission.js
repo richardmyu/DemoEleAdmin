@@ -17,6 +17,7 @@ function checkPermission(el, binding) {
       }
     }
   } else {
+    // eslint-disable-next-line quotes
     throw new Error(`need roles! Like v-permission="['admin','editor']"`)
   }
 }

@@ -15,6 +15,7 @@ export default function checkPermission(value) {
     })
     return hasPermission
   } else {
+    // eslint-disable-next-line quotes
     console.error(`need roles! Like v-permission="['admin','editor']"`)
     return false
   }
