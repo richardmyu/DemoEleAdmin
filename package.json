@@ -1,5 +1,5 @@
 {
-  "name": "demo-ele-admin",
+  "name": "vue-el-admin",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -78,15 +78,15 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/richardmyu/DemoEleAdmin.git"
+    "url": "git+https://github.com/richardmyu/vue-el-admin.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/richardmyu/DemoEleAdmin/issues"
+    "url": "https://github.com/richardmyu/vue-el-admin/issues"
   },
-  "homepage": "https://github.com/richardmyu/DemoEleAdmin#readme",
+  "homepage": "https://github.com/richardmyu/vue-el-admin#readme",
   "engines": {
     "node": ">=8.9",
     "npm": ">=3.0.0"
