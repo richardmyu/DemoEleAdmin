@@ -2,84 +2,9 @@
 
 基于 [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)
 
+<img src="https://img.shields.io/badge/vue-2.6.10-brightgreen.svg" alt="vue">
 
-### 目录结构
+<img src="https://img.shields.io/badge/element--ui-2.13.2-brightgreen.svg" alt="element-ui">
 
-```js
-|
-|-- dist
-|
-|-- mock
-|
-|-- plop-templates
-|
-|-- public
-|
-|-- src
-|    |
-|    |-- api
-|    |
-|    |-- assets
-|    |
-|    |-- components
-|    |
-|    |-- directive
-|    |
-|    |-- filters
-|    |
-|    |-- icons
-|    |
-|    |-- layout
-|    |
-|    |-- router
-|    |
-|    |-- store
-|    |
-|    |-- styles
-|    |
-|    |-- utils
-|    |
-|    |-- vendor
-|    |
-|    |-- views
-|    |
-|    |-- App.vue
-|    |
-|    |-- main.js
-|    |
-|    |-- permission.js
-|    |
-|    |-- settings.js
-|    |
-|
-|-- tests
-|
-|-- .editorconfig
-|
-|-- .env.development
-|
-|-- .env.production
-|
-|-- .env.staging
-|
-|-- .eslintignore
-|
-|-- .eslintrc.js
-|
-|-- .gitignore
-|
-|-- .travis.yml
-|
-|-- babel.config.js
-|
-|-- jest.config.js
-|
-|-- jeconfig.json
-|
-|-- plopfile.js
-|
-|-- postcss.config.js
-|
-|-- vue.config.js
-|
-```
+<img src="https://img.shields.io/github/license/mashape/apistatus.svg" alt="license">
+
